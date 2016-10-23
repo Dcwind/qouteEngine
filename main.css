@@ -1,0 +1,10 @@
+body{
+  background-color: #16B6DF; //First color
+
+  .mdl-card{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+}
