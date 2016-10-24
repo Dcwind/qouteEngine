@@ -17,3 +17,4 @@ $.getJSON(forismatic, function(data) {
 
 });
 //if no author use Anonymous
+// perser json
