@@ -7,3 +7,18 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   }
+
+
+a {
+  color: #16B6DF;
+}
+
+p  a.name  {
+   text-decoration: none;
+
+ }
+
+ p  a.name:hover  {
+    text-decoration: none;
+    color: #25b;
+  }
